@@ -28,9 +28,9 @@ Algoritma çözümüm için öncelikle sistem içerisinde robotları temsil edec
 
 - **FirstScanning:** Robotlar düzleme iniş yaptıktan sonra çevresini taramaları için kullanılmaktadır. Robotlar yan yana indikleri taktirde direkt olarak sonuç gösterilir.
 
-- **LeftsScanning:** Robot, 1 birim solunda paraşüt veya diğer robotun olup olmadığını belirleyebilmek için kullanılmaktadır.
+- **LeftsScanning:** Robotun, 1 birim solunda paraşüt veya diğer robotun olup olmadığını belirleyebilmek için kullanılmaktadır.
 
-- **RightScanning:** Robot, 1 birim solunda paraşüt veya diğer robotun olup olmadığını belirleyebilmek için kullanılmaktadır.
+- **RightScanning:** Robotun, 1 birim sağında paraşüt veya diğer robotun olup olmadığını belirleyebilmek için kullanılmaktadır.
 
 ## Algoritma Çalışma Düzeni
 1.	Sistemin ne kadar sürede işlem gerçekleştirdiğini hesaplayabilmek için StopWatch sınıfından “timer” instance’ ı oluşturuldu.
